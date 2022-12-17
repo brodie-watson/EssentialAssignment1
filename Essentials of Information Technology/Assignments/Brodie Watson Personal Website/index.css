@@ -1,0 +1,31 @@
+body {
+    background-color: #bbbdf5 !important; 
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+
+img {
+    display: inline-block;
+    max-width: 100%;
+    position: relative;
+}
+
+.container {
+    border: 1px solid black;
+}
+
+.first-container {
+    background-color: #a7a8c3;
+    color: #fff;
+}
+
+.second-container {
+    background-color: #abaddf;
+}
